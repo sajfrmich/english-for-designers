@@ -1,2 +1,2 @@
 # english-for-designers
-my class work.
+## Hi, I'm Michaela
