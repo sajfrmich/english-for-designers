@@ -37,7 +37,7 @@ graphic work in Adobe
 
 graphic work in Adobe
 
-design of **custom tiles and subsequent printing using screen printing
+design of **custom tiles and subsequent printing using screen printing**
 
 # FREELANCER
 **Cooperation (2019-2022) with the multi-genre music festival Jesfest** (posters, tickets, online environment).
