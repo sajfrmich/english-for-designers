@@ -10,7 +10,11 @@ Praha 10, Oblouková, 10100
 NESTLÉ, Praha
 August  2022 - present
 I work here in a team with marketing people
+
+
 graphic work for the Infant Nutrition sector, for the BEBA and GERBER brands.
+
+
 banners for Dm, Dr.max pharmacy, Lékarna.cz Benu, Malvík, e-mimino, Alza, MALL, etc., product visuals, social media posts and stories, posters, ads for Gusto magazine, Billa SK, etc., medical printed materials for surgeries, souvenirs, etc. 
 
 ## BOTEP PLUS, spol. s r.o., Lubenec
