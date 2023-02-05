@@ -1,5 +1,5 @@
+![Portrait photography of me holding my head aggressively in my hands on black background. ](IMG_2314.jpg)
 
-!(IMG_2314.jpg)
 
 Hi, I'm  Michaela
 
