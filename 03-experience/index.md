@@ -33,6 +33,7 @@ photo editing, preparation of printed materials
 
 ## LASSELSBERGER, s.r.o., Rakovník
 2015
+
 graphic work in Adobe
 
 design of custom tiles and subsequent printing using screen printing
@@ -47,14 +48,17 @@ PF creation for the architectural firm Atrea.
 # EDUCATION
 ## College of Creative Communication, Praha
 2020 - present
+
 GRAPHIC AND MEDIA DESIGN
 
 ## Higher Vocational School of Health, Management and Public Administration Studies, s.r.o., Plzeň
 2017 - 2020
+
 DENTAL TECHNICIAN
 
 ## Secondary School of Arts and Crafts Zámeček s.r.o., Plzeň
 2013 - 2017
+
 GRAPHIC DESIGN AND MEDIA
 
 # Skills
