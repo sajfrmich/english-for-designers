@@ -64,6 +64,7 @@ GRAPHIC DESIGN AND MEDIA
 
 ## LANGUAGE SKILLS 
 Czech - native speaker
+
 English - intermediate 
 
 
