@@ -4,7 +4,7 @@ You can look at some of my work or learn something about me here.
 
 ## About Me
 
-- [CV/résumé](04-experience)
+- [CV/résumé](03-experience)
 - [Voice, Tone and Style guide](05-voice_tone)
 - contact: michaelasajfridova@gmail.com
 
