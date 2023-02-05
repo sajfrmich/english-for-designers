@@ -1,3 +1,4 @@
+
 # voice and tone
 
 ## voice
@@ -17,6 +18,6 @@ In my opinion, my tone should be friendly, upbeat and respectful!
 3. Respectful
 
 
-# style
+## style
 
 Maintain a friendly and kind tone. Use of field terms and correct hierarchy.
