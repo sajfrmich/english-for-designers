@@ -1,4 +1,4 @@
-![Portrait photography of me holding my head aggressively in my hands on black background. ](IMG_2314.jpg)
+![IMG_2314](https://user-images.githubusercontent.com/116068267/216816334-757e1c58-c749-4f44-ac2a-f59020b629e4.JPG)
 
 
 Hi, I'm  Michaela
