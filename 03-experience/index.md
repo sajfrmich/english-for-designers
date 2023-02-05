@@ -1,5 +1,5 @@
 # Michaela Sajfridová
-graphic designer
+## graphic designer
 
 
 Praha 10, Oblouková, 10100 
@@ -62,6 +62,13 @@ DENTAL TECHNICIAN
 
 GRAPHIC DESIGN AND MEDIA
 
+# language skills
+Czech - native speaker
+English - intermediate 
+
+
 # Skills
 user knowledge of Adobe Illustrator, InDesign, Photoshop, Lightroom, Microsoft Office, Miro, Figma, Slack
+
+
 
