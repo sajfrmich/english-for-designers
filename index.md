@@ -11,7 +11,7 @@ You can look at some of my work or learn something about me here.
 ## Case Study
 
 - [REBRAND](case-study)
-- [Project Presentation](giveflowers.pdf)
+
 
 ## Extras
 
