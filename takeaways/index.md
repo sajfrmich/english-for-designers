@@ -1,4 +1,4 @@
-# Five things I learned this semester in 2022.
+# Four things I learned this semester in 2022.
 
 1. Overall, focus more on English again.
 2. Ways of writing in English.
