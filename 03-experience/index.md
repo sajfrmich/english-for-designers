@@ -7,7 +7,8 @@ Praha 10, Oblouková, 10100
 
 
 # WORK PLACEMENT
-NESTLÉ, Praha
+
+## NESTLÉ, Praha
 
 August  2022 - present
 
