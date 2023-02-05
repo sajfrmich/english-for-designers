@@ -62,12 +62,12 @@ DENTAL TECHNICIAN
 
 GRAPHIC DESIGN AND MEDIA
 
-# LANGUAGE SKILLS 
+## LANGUAGE SKILLS 
 Czech - native speaker
 English - intermediate 
 
 
-# SKILLS
+## SKILLS
 user knowledge of Adobe Illustrator, InDesign, Photoshop, Lightroom, Microsoft Office, Miro, Figma, Slack
 
 
