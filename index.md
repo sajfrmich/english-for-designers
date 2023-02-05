@@ -10,7 +10,7 @@ You can look at some of my work or learn something about me here.
 
 ## Case Study
 
-- [Daruj květiny - Give Flowers](case-study)
+- [REBRAND](case-study)
 - [Project Presentation](giveflowers.pdf)
 
 ## Extras
