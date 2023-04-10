@@ -22,3 +22,6 @@ You can look at some of my work or learn something about me here.
 ## Summer semester
 - [Abstract](abstract)
 - [Storytelling](Storytelling)
+
+## Final presentation of my thesis
+- [thesis](thesis)
