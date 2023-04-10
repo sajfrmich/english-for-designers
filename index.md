@@ -20,4 +20,4 @@ You can look at some of my work or learn something about me here.
 - [Takeaways](takeaways)
 
 ## Abstract
-- [Abstract](01-alternative-text)
+- [Abstract](abstract)
