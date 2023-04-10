@@ -21,4 +21,4 @@ You can look at some of my work or learn something about me here.
 
 ## Summer semester
 - [Abstract](abstract)
-- [Storytelling](abstract)
+- [Storytelling](storytelling)
