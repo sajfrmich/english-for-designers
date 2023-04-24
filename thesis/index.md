@@ -15,6 +15,10 @@ The company had no corporate identity until now, and now it wants to change that
 
 **The target** group is mainly students and graduates of agricultural schools, i.e. young people between the ages of 16 and 26.  This is a target group with an interest in the agricultural sector and BOTEP itself.
 
+The **logo** itself is based on the name of the company BOTEP
+The designed logo uses the Galano Grotesque sans-serif font, which is complemented by a symbol in front of the name itself, this symbol is meant to represent the wasps from the ear itself, the landscape from a bird's eye view.
+
+
 ## Visual identity
 The main output of the visual identity is based on the principle of a **bird's eye view of the landscape**. 
 These **natural elements** also give a **sketched, geometric impression**.
@@ -26,3 +30,12 @@ The **main idea** of the whole concept is to make the BOTEP brand and the **agri
 
 **Online communication** is chosen as the main communication element with regard to the target group
 Primarily it will be social networking platforms such as **Instagram, Facebook and Tiktok**
+
+
+
+![ig profil](https://user-images.githubusercontent.com/116068267/234113174-bde5023b-6c4b-4021-8f00-cc4aa30c48f1.jpg)
+
+
+
+
+
