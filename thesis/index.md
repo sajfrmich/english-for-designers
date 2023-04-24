@@ -33,7 +33,7 @@ Primarily it will be social networking platforms such as **Instagram, Facebook a
 
 
 
-![ig profil](https://user-images.githubusercontent.com/116068267/234113174-bde5023b-6c4b-4021-8f00-cc4aa30c48f1.jpg)
+
 
 
 
