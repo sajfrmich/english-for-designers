@@ -7,7 +7,7 @@ The practical part is complemented by mockups that show the development of the g
 **Keywords: Logo, visual identity, marketing communication, graphic design, agriculture**
 
 ### my presentation in Figma:
-[storytelling](https://www.figma.com/file/EDRCEr4KTPPRdhyQkCm7jl/Untitled?type=design&node-id=0%3A1&t=IgtrVmZ4F3oJ6adq-1) 
+[thesis](https://www.figma.com/file/EDRCEr4KTPPRdhyQkCm7jl/Untitled?type=design&node-id=0%3A1&t=IgtrVmZ4F3oJ6adq-1) 
 
 ## Botep is prosperous agricultural company.
 
