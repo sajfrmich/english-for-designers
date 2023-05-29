@@ -6,7 +6,7 @@ The practical part is complemented by mockups that show the development of the g
 
 **Keywords: Logo, visual identity, marketing communication, graphic design, agriculture**
 
-### my presentation in Figma:
+### my presentation in Figma and PDF:
 [thesis](https://www.figma.com/file/EDRCEr4KTPPRdhyQkCm7jl/Untitled?type=design&node-id=0%3A1&t=IgtrVmZ4F3oJ6adq-1) 
 
 [thesis-presentation.pdf](https://github.com/sajfrmich/english-for-designers/files/11591715/thesis-presentation.pdf)
